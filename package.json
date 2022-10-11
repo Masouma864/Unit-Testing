@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Daron976/Testing.git"
+    "url": "git+https://github.com/Masouma864/Unit-Testing"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Daron976/Testing/issues"
+    "url": "https://github.com/Masouma864/Unit-Testing/issues"
   },
-  "homepage": "https://github.com/Daron976/Testing#readme",
+  "homepage": "https://github.com/Masouma864/Unit-Testing#readme",
   "devDependencies": {
     "jest": "^29.1.2"
   }
